@@ -20,6 +20,8 @@ The database structure consists of three primary tables with a total row count o
 - **Table 2 (Social Media):** Tracks 292M touchpoints including social media interactions, marketing clicks, and customer engagement metrics.
 - **Table 3 (Transaction):** Records transaction history across product categories (Laptop, Smartphone, Tablet, etc.), including revenue data and product recall status.
 
+   ![](https://github.com/monicabright/AfriTech-Electronics/blob/main/Data%20Model%20Afritech.png)
+
 [Entity Relationship Diagram: Primary Key CustomerID links the Customer table to the Transaction and Social Media tables.]
 
 # Executive Summary
