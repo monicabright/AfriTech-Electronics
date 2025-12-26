@@ -8,11 +8,11 @@ This report presents a comprehensive brand health and product performance assess
 - **Category 3:** VIP Customer Lifecycle (Retention and service equity for high-value users)
 - **Category 4:** Demographic Engagement (Revenue contribution and engagement by generation)
 
-The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/monicabright/AfriTech-Electronics/commit/75db5c4d92bfdfa2395ca8e64f652d1219d17c49).
+The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/monicabright/AfriTech-Electronics/blob/main/Afritech%20Data%20Cleaning%20And%20EDA.sql).
 
-Targeted SQL queries regarding various business questions can be found here [[link]].
+Targeted SQL queries regarding various business questions can be found [here](https://github.com/monicabright/AfriTech-Electronics/blob/main/Afritech%20Business%20Problems%20Queries.sql).
 
-An interactive Power BI dashboard used to report and explore sales trends can be found here [[link]].
+An interactive Power BI dashboard used to report and explore sales trends can be found here [here](https://app.powerbi.com/groups/me/reports/9d91d30d-d888-4d96-b2b7-7e96fc6bc51e?experience=power-bi).
 
 ## Data Structure & Initial Checks
 The database structure consists of three primary tables with a total row count of approximately 200 customer-specific records and millions of engagement log entries.
