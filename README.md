@@ -8,7 +8,7 @@ This report presents a comprehensive brand health and product performance assess
 - **Category 3:** VIP Customer Lifecycle (Retention and service equity for high-value users)
 - **Category 4:** Demographic Engagement (Revenue contribution and engagement by generation)
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [[link]].
+The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/monicabright/AfriTech-Electronics/commit/75db5c4d92bfdfa2395ca8e64f652d1219d17c49).
 
 Targeted SQL queries regarding various business questions can be found here [[link]].
 
