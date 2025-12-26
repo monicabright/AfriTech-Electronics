@@ -14,6 +14,9 @@ Targeted SQL queries regarding various business questions can be found [here](ht
 
 An interactive Power BI dashboard used to report and explore sales trends can be found here [here](https://app.powerbi.com/groups/me/reports/9d91d30d-d888-4d96-b2b7-7e96fc6bc51e?experience=power-bi).
 
+![](https://github.com/monicabright/AfriTech-Electronics/blob/main/Customer%20Analysis%20Afritech.png)
+![](https://github.com/monicabright/AfriTech-Electronics/blob/main/Sentiment%20Analysis%20Afritech.png)
+![](https://github.com/monicabright/AfriTech-Electronics/blob/main/Financial%20Analysis%20Afritech.png)
 ## Data Structure & Initial Checks
 The database structure consists of three primary tables with a total row count of approximately 200 customer-specific records and millions of engagement log entries.
 - **Table 1 (Customer):** Contains demographic data, including age, income level (average $61,000), and loyalty tier.
